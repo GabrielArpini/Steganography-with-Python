@@ -1,4 +1,0 @@
-pip install Pillow
-pip install pyfiglet
-pip install matplotlib
-pip install numpy
